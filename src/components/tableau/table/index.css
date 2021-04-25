@@ -1,0 +1,21 @@
+#tableau {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+#tableau-row {
+  display: flex;
+  /* TODO: Change back to row after constraints are working properly */
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+#tableau-cell {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}

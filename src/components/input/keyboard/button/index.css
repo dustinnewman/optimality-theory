@@ -1,0 +1,13 @@
+button.ipa {
+  box-sizing: content-box;
+  border-style: none;
+  width: 22px;
+  height: 30px;
+  line-height: 24px;
+  background-color: var(--theme);
+  color: var(--primary);
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-right: 0;
+  font-size: 17px;
+}

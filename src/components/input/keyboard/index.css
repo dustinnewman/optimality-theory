@@ -1,0 +1,6 @@
+textarea.ipa-input {
+  width: 100%;
+  resize: none;
+  font-size: 16px;
+  border-color: var(--secondary);
+}
